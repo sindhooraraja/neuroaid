@@ -1,0 +1,10 @@
+Dataset Links
+
+Spirals:
+https://www.kaggle.com/datasets/kmader/parkinsons-drawings
+
+Voice-based biomarkers:
+https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set
+
+Brain MRIs:
+https://www.kaggle.com/datasets/yasserhessein/dataset-alzheimer
